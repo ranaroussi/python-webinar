@@ -11,11 +11,11 @@
 
 - [yfinance](https://github.com/ranaroussi/yfinance) - for downloading data from Yahoo! finance.
 - [quantstats](https://github.com/ranaroussi/quantstats) - for assesing strategy performance.
-- [optimizeparams](https://github.com/ranaroussi/python-for-trading-meetup/blob/master/optimizeparams.py) - for parameter optimization
+- [optimizeparams](https://github.com/ranaroussi/python-webinar/blob/master/optimizeparams.py) - for parameter optimization
 
-<a href="https://youtu.be/RjznGUQqXtQ"><img src="https://raw.githubusercontent.com/ranaroussi/python-for-trading-meetup/master/thumbnail.jpg" width="400"></a>
+<a href="https://youtu.be/gfeSmGJmH6k"><img src="https://raw.githubusercontent.com/ranaroussi/python-webinar/master/thumbnail.jpg" width="400"></a>
 
-The video of the presentation is [available on YouTube](https://youtu.be/RjznGUQqXtQ)
+The video of the presentation is [available on YouTube](https://youtu.be/gfeSmGJmH6k)
 
 <br>
 
