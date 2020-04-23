@@ -15,7 +15,7 @@
 
 <a href="https://youtu.be/gfeSmGJmH6k"><img src="https://raw.githubusercontent.com/ranaroussi/python-webinar/master/thumbnail.jpg" width="400"></a>
 
-The video of the presentation is [available on YouTube](https://youtu.be/gfeSmGJmH6k)
+The video of the presentation is [available on YouTube](https://youtu.be/gfeSmGJmH6k)<br>(Hebrew presentation)
 
 <br>
 
